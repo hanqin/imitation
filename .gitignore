@@ -1,4 +1,5 @@
 # Project-specific
+examples/checkpoints/*
 .#*
 *.html
 output/

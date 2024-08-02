@@ -216,9 +216,13 @@ setup(
         "dev": [
             "autopep8",
             "ipdb",
+            "mujoco",
+            "moviepy",
             "isort~=5.0",
             "codespell",
             "sphinx-autobuild",
+            "seaborn",
+            "jupyterlab",
             # for convenience
             *TESTS_REQUIRE,
             *DOCS_REQUIRE,
